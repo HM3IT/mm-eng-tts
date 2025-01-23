@@ -1,0 +1,180 @@
+[16.00 - 20.88]  So let's get into it. Let's start off with the characters' abilities.
+[20.88 - 29.20]  The ult, the echo, the skill, the gadget, the forte circuit, and the concerto energy.
+[29.20 - 31.68]  Those are all the characters' abilities.
+[31.68 - 35.84]  Okay, and if you're wondering what the little circle one is that's the walk-on feature,
+[35.84 - 41.36]  let's start off with the concerto energy. So the concerto energy, it has a gauge as you can see,
+[41.36 - 46.48]  it needs energy to be able to use it. You get energy by doing attacks, doing whatever you are doing
+[46.48 - 53.12]  in a battle. Once that bar is full however, you can cast this thing called an outro skill.
+[53.12 - 59.52]  And how you do that is by swapping into a different character when that concerto energy is full.
+[59.52 - 62.32]  Now what are outro skills actually good for?
+[62.32 - 67.84]  Depending on the character, the outro skill can increase a certain type of damage.
+[67.84 - 73.04]  Like for example, this character states that the outro skill makes the incoming character
+[73.04 - 79.12]  have their basic attack damage amplified by 38%. Very good. For this character in particular,
+[79.12 - 84.80]  it's a little bit longer, look a bit confusing, but the most important thing is that it amplifies
+[84.80 - 92.72]  all characters' damage by 15%. A main DPS character will most likely have their outro just do damage.
+[92.72 - 97.92]  Now the next thing that happens after an outro skill when you use it is that that character you're
+[97.92 - 103.68]  swapping into will cast their intro skill. Now this mostly does damage and sometimes it can do
+[103.68 - 107.76]  different things like for example this character you're staring at. Now this lovely character,
+[107.76 - 112.24]  when you cast her intro skill, so we'll get her 4-tay field, but we'll get into that later.
+[112.24 - 115.76]  Now that you know that, I'll just show you quickly what that looks like. Okay? We're going to use
+[115.76 - 123.68]  this character right here. Lock on to this guy. We're just going to get our concerto here.
+[128.72 - 134.88]  Alright, so now the bar is full and I'm getting clapped. I'm not paying attention. Okay?
+[134.88 - 141.60]  So now when I swap into any character, alright, so I'm just going to press one here. It'll cast
+[142.64 - 149.04]  the next character's intro skill. And as you can see, I got the outro skill buff from that character
+[149.04 - 155.28]  right above the 4-tay. That little blue symbol. So that's how that works. You do attacks, do certain
+[155.28 - 159.52]  things to get the concerto energy. Some characters are going to be faster than others at getting it.
+[159.52 - 165.92]  Alright, hopefully it doesn't sound too confusing. Now let's get into the 4-tay bar. Now this is
+[165.92 - 172.16]  the bar that is above the health as you can see. This is what makes each character truly unique.
+[172.16 - 178.32]  It changes how they play and how you play them. How exactly do these work? Well, as I said already,
+[178.32 - 182.96]  they're unique to every character so they work differently. For example, the lovely character you're
+[182.96 - 188.88]  saying right now, she can't really fill up that bar by herself. She has to cast her intro skill
+[188.88 - 194.96]  to get that bar filled up. So I'll quickly show you what that looks like. Gonna get the concerto energy.
+[197.12 - 204.48]  It is full and you can tell that it is full by it looking full and the characters on the screen
+[204.56 - 207.92]  are blinking as well. So now we'll swap into
+[210.08 - 216.08]  chameleon that will cast her intro skill and boom, as you can see her whole bar is full.
+[216.88 - 223.76]  So that's how this character's particular 4-tay circuit works and you'll see a button input
+[223.76 - 230.64]  next to it as well. That's basically telling you how exactly to use the concerto. So this one
+[230.64 - 235.92]  is just left click. Anything you do with left click will use up the concerto bar and basically
+[235.92 - 240.72]  for this character it's just giving her stacks that make her do more damage, right? I'll swap into
+[240.72 - 246.80]  this character. What this one does, okay? She'll get a bunch of those stacks by just doing
+[247.44 - 253.52]  doing attacks and stuff, you know, pretty easy and what she can do with that is just hold the
+[253.52 - 259.12]  hold the click button and I do apologize because this is going to be different for playstation
+[259.12 - 263.12]  users because you guys are obviously isn't a controller. So I can't really reference what button
+[263.12 - 267.92]  it's going to be for you guys, but for this character you're just going to do a heavy attack
+[267.92 - 273.84]  and she'll do that which pulls enemies, they suck them, you know, really good. So how her bar works
+[273.84 - 280.64]  is doing a skill or an ult will, you know, make that little teeny gauge a bit bigger.
+[282.40 - 287.44]  But how this works is you hold the heavy attack and then let go as soon as it's in the buildup
+[287.44 - 293.36]  portion and you'll do a cool heavy attack like that. So that's how she works. Again, it's different
+[293.36 - 299.60]  for every character. So yeah, that's Forte Circuit. It adds more to a character's kit, make some
+[299.60 - 306.80]  truly unique and awesome. Moving on, the next ability you'll see is a gadget. Now in this particular
+[306.80 - 314.72]  gadget you'll notice is a grapple. Grapple's good for exploring and also can be useful in the middle
+[314.72 - 319.76]  of combat. If there's an attack you can't really dodge normally by dodging. You can just use
+[319.76 - 324.08]  the grapple to get away from the enemy. You know, it works really good in combat sometimes.
+[324.08 - 329.76]  You can actually change this to whatever you want. You know, just go to the menu and go to
+[330.32 - 335.44]  utilities and you'll have a bunch of different ones that you can put in this utility wheel
+[336.08 - 342.16]  and whatever button it is to bring up the wheel, bring it up and you can swap it to multiple,
+[342.16 - 347.68]  multiple different things and swap it to a little gun thing which isn't useful for combat. By the
+[347.68 - 351.76]  way, so don't make the mistake of trying to use this in combat. It does like one damage. This
+[351.76 - 358.40]  mostly is for puzzles, but you know, you can change it to a loop map or thing, you know, a sensor
+[358.40 - 364.32]  levitator, all the other stuff is mostly used for exploration, but you're mostly going to be using
+[364.32 - 370.16]  the grapple. So yeah, grapple's just easy for getting around, getting heights and going into combat.
+[370.16 - 374.96]  It can be really good as well. Now the next ability that I just accidentally
+[374.96 - 380.56]  faffing her is your skill. Again, for all characters, it'll be unique on how the skill works.
+[380.56 - 386.00]  For this character in specific, it's a stance change. I guess you could say a form change.
+[386.00 - 391.84]  I press it. She goes into this grounded mode. Her hair is white and normal. You know, and she does
+[392.32 - 397.92]  these attacks which are very, very good for single targets. I press it again. She goes into the
+[398.64 - 406.16]  air mode, which is primarily good for area of effect. Different characters is different for this
+[406.16 - 412.72]  character, particular in particular. Okay, it's a thing that heals, right? For this character, it's
+[412.72 - 418.72]  just a little attack, right? Which also helps getting her forte circuit. It works completely different
+[418.72 - 424.56]  for every character. Cool downs are different. Moving on to the next thing you'll see is the echo.
+[424.56 - 429.76]  Now these echoes are different depending on which echo you are using. So if you go to your
+[429.76 - 436.24]  character menu, go down here to the echo, click on this one, anything that is in this top slot
+[436.24 - 442.88]  here, right? You'll see there's slots down here and then one separated one here. This is the echo
+[442.88 - 448.16]  you use in combat, depending on which one you're using. The gameplay is different. Like this one
+[448.24 - 456.64]  is actually really quick to use. You just do that very fast. Okay, say we change it to something
+[456.64 - 463.28]  like this. You actually transform into him and do multiple attacks like that. Where do these
+[463.28 - 469.20]  echoes actually important for? Depending on the echo you are using, it'll give you some buffs.
+[469.20 - 473.20]  Like this one after the transformation, it increases the current characters,
+[473.20 - 479.12]  havoc damage by 12% and skill damage by 12%. The main echoes you want to be using in this slot,
+[479.12 - 484.40]  by the way, are four cost echoes and how you see their cost is, you know, the number on them.
+[484.96 - 490.56]  And yeah, they all do different things. They can all buff you in different ways and you can use them
+[490.56 - 496.88]  in middle of combat. Now the next thing you'll see is their ult. Again, the ult is unique to
+[496.96 - 505.20]  every character and it has a energy bar similar to the concerto energy. You see these characters are
+[505.20 - 511.20]  full, but this character doesn't have her ult yet and you can only use your ult when that energy
+[511.20 - 517.20]  is full. Once it's ready, it'll be shiny, glowing, pulsating and then you can just use it.
+[521.20 - 525.92]  Very good stuff, right? And another way you might wonder how do you tell if a character's ult
+[525.92 - 532.40]  is ready, that's not on the field. If you look at the blue character, the number two, you'll see a
+[532.40 - 539.84]  check mark right next to her. That means her ult is there and ready. Okay? See just like that, it's ready.
+[540.40 - 546.72]  Okay, now how do you get energy with this? By doing anything you can, similar with concerto
+[546.72 - 553.36]  energy as well. Any attacks will get ults and characters that are off field will also get energy
+[554.24 - 558.08]  as well. Not as much as characters on the field, but they will. If we do
+[559.28 - 566.80]  outro intro, we get a lot of old old gauge right there and then we can use that, right?
+[567.52 - 572.96]  Easy stuff. Now for the last simple understanding of things, I kind of forgot the main big
+[572.96 - 580.24]  thing of a character and that's their normal attacks. This is just your normal normal attack. You just
+[580.24 - 587.12]  spam, click, whatever button it is going to be on controller. But if you hold said button,
+[587.68 - 593.44]  you'll do a heavy attack. Also different for each character. Another thing that I kind of
+[593.44 - 598.32]  forgot to do and show you is a character's plunge attack. You know, when you're in air, you just
+[598.32 - 605.04]  click your attack button and you'll do a plunge. Of course, different characters are different.
+[605.44 - 610.48]  For example, this character right here, you can't simply normal attack when you're in air.
+[610.48 - 616.56]  Because if you do that with air, she'll just do a mid air basic attack. Of course, after that
+[616.56 - 624.96]  phoenix, if you click, if you click after the phoenix, you can plunge attack. But you can also hold
+[624.96 - 629.60]  the button. She'll just do it too. Some characters are different when you do their plunge, but that's
+[629.60 - 634.72]  how it is. Now that we're done with all that, stamina. As you can see here, you'll briefly see it
+[634.72 - 639.68]  as I'm dashing. I'm just doing a simple dash. And you'll also notice that stamina is not
+[639.68 - 644.72]  being consumed while I'm sprinting. That's because when you're outside of combat, you have infinite
+[644.72 - 649.28]  stamina for sprinting. However, when you're climbing up walls, when you're climbing up walls, it'll,
+[649.28 - 654.72]  of course, use stamina and then it consumes stamina when you're gliding to. Another thing that
+[654.72 - 660.88]  consumes stamina is your heavy attack. Let me show you more in combat. You'll do a dodge,
+[661.52 - 667.76]  okay? Which will consume stamina? Even if it's a perfect dodge, it'll consume stamina.
+[667.76 - 672.08]  But it recharges pretty quickly. Of course, if you're dodging the whole time,
+[673.04 - 679.20]  you know, if you're just spamming, you're gonna run out of stamina very, very, very fast. If you hold
+[679.20 - 683.84]  the dodge button, which will put you into sprint mode, you of course, use stamina because you're
+[683.84 - 691.68]  in combat. But yeah, that's how stamina works. Now, let's get into the dodge. All right, so as you see
+[691.68 - 698.56]  there, if you dodge at the right moment, okay? Not get hit like I like that. Dodge at the right
+[698.56 - 705.52]  moment, you get a cool little sound effect, a cool little visual effect of perfect dodging,
+[705.52 - 711.60]  right? That, of course, means you didn't get hit. You didn't take damage. You're good. You got
+[711.60 - 717.68]  the eye frames. Another thing that you can do when you dodge is do a counter attack or a dodge
+[717.68 - 722.80]  attack, if you will. I'll show you what that looks like. All you gotta do is dodge, press your basic
+[722.80 - 730.88]  attack and you'll do a counter attack like that. Just like that. Now, the dodge attack actually can
+[730.88 - 737.04]  lead into different things, into a character's normal attack string or whatever. Another thing you
+[737.04 - 743.60]  can actually do with said dodge attack is use it for eye frames as well because it has eye frames.
+[743.60 - 749.60]  So what happens is you can delay it a little bit and time your eye frames. Got dodging out of the
+[749.60 - 756.88]  way? Let's get into the parrys. This particular enemy has a lot of parryable attacks, which you'll see
+[756.88 - 762.96]  are those rings that come on. Like that one. How to know when the parry is when the ring is perfectly
+[762.96 - 769.92]  closed and centered and will flash for a brief moment. Okay? What you gotta do at that moment is
+[769.92 - 777.60]  simply use a normal attack. All right? Or a heavy attack or a skill or whatever. It can be
+[777.60 - 782.00]  parried by multiple things, but I'll get into that in a second. Let me just show you what what it
+[782.00 - 788.88]  looks like when you parry. When you're parry good. I'll show you. I'll show you. All right here. Lock in,
+[789.68 - 797.20]  and parry. Just like that. He'll get stunned for a brief moment. You know, just like that. Very easy
+[797.20 - 804.48]  attacking at the right time. And I kind of just one shot him. Whoops. What can parry an enemy? So
+[804.48 - 810.00]  normal attacks can parry. Heavy attacks can parry at the right moment. Skills can parry at the right
+[810.00 - 815.68]  moment. Olds can parry at the right moment. Sometimes even your echoes. Intro skills can also parry.
+[815.68 - 821.76]  Very nice, but what can't parry? Rectifier characters, which are more ranged attacks. All right?
+[821.76 - 827.20]  Depending on their kit, they actually won't parry. However, I do think a common thing with
+[827.20 - 832.72]  rectifier characters is that their heavy attacks can parry and their dodge attacks can parry. Not
+[832.72 - 840.56]  all the time like a melee character like her. Characters that can't parry like at all pistol characters.
+[840.56 - 845.28]  They can't parry at all. The only thing that could parry with them is their echo probably. Which
+[845.28 - 851.76]  sucks, but kind of understandable because they have the advantage of range. Moving on to an enemy
+[851.76 - 857.36]  stagger bar. The stagger bar is the white bar underneath the enemy's health bar. How you break
+[857.36 - 862.88]  this is by doing attacks doing anything. But there are easier ways to do this. For example,
+[862.88 - 868.16]  parries in my opinion are the best way at doing this and probably is the best way at doing this.
+[868.80 - 873.84]  As you can see, I parried. Did a good load there. I did a good load there. Girl, you want more time
+[873.92 - 879.44]  if I don't suck at the game. There you go. Did a good amount. You can also dodge attack,
+[879.44 - 888.00]  which does it a good good bit. Just like that. You can do an echo skill which does it a decent bit,
+[888.00 - 895.84]  right? Orte will do it pretty good. Another thing that does it really good is doing a characters
+[895.84 - 901.68]  intro skill. So we'll cast our current characters outro skill and go into the next character for
+[901.68 - 907.28]  their intro. So I'll show you what that looks like. I'm an idiot. We'll do it from this character.
+[907.28 - 916.56]  So cast the outro into the intro. See, it did a good bit there. All right. Yeah, see, does it a
+[916.56 - 921.52]  good bit? Right. I'm gonna let him wake up real quick. And of course, I'm probably gonna kill him
+[921.52 - 929.20]  here. Yeah, I did. But, Ult will break the bar a lot quicker as well. Of course, stagger bar,
+[929.20 - 935.92]  just as it sounds is useful for staggering the enemy and he'll sit there like a little bitch,
+[935.92 - 940.72]  all right, and let you attack him for a good view to get some damage in. The next thing we need to
+[940.72 - 948.24]  talk about is something that is very intricate and takes a bit time to actually learn. And that
+[948.24 - 953.28]  is called quick swaps. What are quick swaps? For example, you're playing a character and they have
+[953.28 - 958.24]  long animations that you can kind of get stuck into, you know, sometimes you don't want to be stuck
+[958.64 - 963.12]  in it. What do you do? Swap into a different character while that animation is playing. So then
+[963.12 - 968.24]  that character is still playing its animation off field. So I'll show you what that looks like.
+[968.24 - 972.32]  There are different ways you can quick swap. The character I'm actually using now is very
+[972.32 - 979.52]  reliant on quick swap. I will say it's very good. So I'll do her forte heavy attack, which
+[980.24 - 987.52]  looks like this. As you can see, it's a pretty long animation. It really is. Now, we'll quick swap it.
+[987.52 - 994.88]  So I'll show you what that looks like when I stop getting bodied. So I'll cast the heavy attack
+[994.88 - 1000.48]  and then I'll swap while it's doing it. Unfortunately, blood teleported away so you can't really see
+[1000.48 - 1004.72]  if the character was actually doing the animation still. So let me get it back here so I can just
+[1004.72 - 1010.56]  prove it to you. I'll do it again. As you can see, she's briefly off field there, still casting
+[1010.56 - 1016.56]  the animation while I could swap into this character and do some of her stuff. Normal attacks can also
+[1016.56 - 1022.00]  be quick swap kind of like that, right? Not the craziest thing. The other thing that can be quick swap
+[1022.00 - 1027.92]  is echoes. Some echoes are better to just use them on field rather than quick swap them. But one of
+[1027.92 - 1034.56]  the best is this character's echo, which is a Hydrogen, a bird. Show you what it looks like without
+[1034.56 - 1040.32]  quick swapping. You do that like that. Yeah, sometimes you don't want to go flying in the air with it.
+[1040.40 - 1047.04]  I'll cast the echo and swap. And you saw it do it there. You didn't really see it, but you saw the
+[1047.04 - 1053.76]  the impact explosion from it slamming down. Various stuff can help you play your team better depending
+[1053.76 - 1059.76]  on what the team is. You know, very good for many things. All right, but again, I will say it
+[1059.76 - 1066.00]  does take time to learn depending on your team and characters. Plenty of videos that go more in
+[1066.00 - 1072.08]  depth on it, especially for your particular teams that you're using. So that is the basics
+[1072.08 - 1077.52]  to how to play the game. I'm sorry if any of it sounded confusing. I do apologize, but if you have
+[1077.52 - 1082.00]  any questions, just let me know down below and I'll be sure to try and answer them the best I can.
+[1082.00 - 1086.16]  But yeah, that's how you play this game. Essentially, of course, it takes practice to get used to
+[1086.16 - 1091.04]  everything. Holy god damn, those personalities are huge. Thank you so much for watching. I hope
+[1091.04 - 1095.76]  down below. You want to see more
+[1095.76 - 1100.24]  for me and like and subscribe. But be very much appreciated. Thanks for watching. I'll see you guys
+[1100.24 - 1101.84] 
