@@ -6,8 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "boto3>=1.36.3",
-    "cohere>=5.13.11",
-    "google-cloud-texttospeech>=2.24.0",
     "gtts>=2.5.4",
     "ipykernel>=6.29.5",
     "ipynb>=0.5.1",
@@ -29,4 +27,7 @@ dependencies = [
     "transformers>=4.48.1",
     "whisper>=1.1.10",
     "yt-dlp>=2025.1.15",
+    "en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl",
+    "en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl",
+    "spacy-curated-transformers>=0.3.0",
 ]

@@ -20,3 +20,6 @@ Approach 2: (Prioritize quality over speed)
 5: Manually replaced translated text on the timestamp
 6: Generate audio record for each timestamp
 7: Remove audio from the original video and replace with the generated audio files with the corresponding timestamp
+
+
+
