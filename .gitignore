@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 workflow.md
+ChatTTS_lib/*
+asset/*
