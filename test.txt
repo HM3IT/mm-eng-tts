@@ -1,0 +1,5 @@
+
+    Translate the following English text to Burmese (Myanmar) while keeping the original English terms for special terms.
+    Please exclude the following terms from translation: 
+    Concerto Energy / Outro /,an Outro Skill,play,action,Skill,Ult,Echo,character,players,damage,Concerto Energy,Forte Circuit,Forte,Concerto,player,actions,Intro,Energy,Outro,normal attack,icon,Abilities,Gadget,Circuit
+    
