@@ -31,8 +31,9 @@ dependencies = [
     "en-core-web-trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl",
     "spacy-curated-transformers>=0.3.0",
     "edge-tts>=7.0.0",
-    "ffmpeg>=1.4",
     "nest-asyncio>=1.6.0",
+    "openai>=1.60.1",
+    "pytube>=15.0.0",
 ]
 
 [tool.uv.workspace]

@@ -11,3 +11,4 @@ wheels/
 workflow.md
 ChatTTS_lib/*
 asset/*
+*.mp4
